@@ -1,0 +1,4 @@
+export const produtosMock = [
+  { referencia:"1715036", categoria:"CAMISA", descricao:"Tudo passa iluminado MCMXCIX", unidade:"UN", imagem:"1715036.jpeg", variantes:[{ cor_codigo_nome:"Cinza", valor_unitario:40, valor_unitario_tb1:40, valor_unitario_tb2:38, valor_unitario_tb3:35, grade:{PP:2,P:5,M:8,G:6,GG:3,U:0}, quantidade_total:24, valor_total:960, valor_total_tb1:960, valor_total_tb2:912, valor_total_tb3:840 }] },
+  { referencia:"1716026", categoria:"CALÇA", descricao:"Calça Tudo Passa", unidade:"UN", imagem:"1716026.jpeg", variantes:[{ cor_codigo_nome:"Preta", valor_unitario:89.9, valor_unitario_tb1:89.9, valor_unitario_tb2:84.9, valor_unitario_tb3:79.9, grade:{PP:0,P:4,M:7,G:5,GG:2,U:0}, quantidade_total:18, valor_total:1618.2, valor_total_tb1:1618.2, valor_total_tb2:1528.2, valor_total_tb3:1438.2 }] }
+];

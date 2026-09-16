@@ -1,0 +1,4 @@
+export const clientesMock = [
+  { codigo:"101", nome:"João Silva", cpf_cnpj:"123.456.789-00", celular:"(11) 98888-7777", email:"joao@email.com", endereco:"Rua das Flores", numero:"50", bairro:"Centro", cidade:"São Paulo", uf:"SP", cep:"01001-000", data_cadastro:"2023-10-27T14:30:00.000Z", formas_pagamento:["Crediário Loja","Cartão Crédito"], cartoes_loja:["Visa Tudo Passa","Black VIP"], bloqueado:false, credito_limite:4555, credito_atual:55, foto:"1783102889090-motoqueiro_smart_2.png", ref_usuarios:["patricio"] },
+  { codigo:"102", nome:"Maria Oliveira", cpf_cnpj:"987.654.321-00", celular:"(85) 99999-1111", email:"maria@email.com", endereco:"Rua Central", numero:"120", bairro:"Centro", cidade:"Fortaleza", uf:"CE", cep:"60000-000", data_cadastro:"2024-02-15T10:00:00.000Z", formas_pagamento:["Cartão Crédito"], cartoes_loja:[], bloqueado:false, credito_limite:2500, credito_atual:400, foto:null, ref_usuarios:[] }
+];

@@ -1,0 +1,4 @@
+export const fornecedoresMock = [
+  { codigo:"201", nome:"Fornecedor Winthor", cpf_cnpj:"12.345.678/0001-90", celular:"(85) 98888-2222", email:"fornecedor@example.com", endereco:"Av. Industrial", numero:"500", bairro:"Distrito Industrial", cidade:"Maracanaú", uf:"CE", cep:"61900-000", tipo:"fornecedor", logomarca:null, ref_clientes:[], ref_produtos:["1715036","1716026"], ref_usuarios:[], data_cadastro:"2024-01-10T09:00:00.000Z" },
+  { codigo:"202", nome:"Distribuidora Exemplo", cpf_cnpj:"98.765.432/0001-10", celular:"(85) 97777-3333", email:"distribuidora@example.com", endereco:"Rua dos Distribuidores", numero:"80", bairro:"Aldeota", cidade:"Fortaleza", uf:"CE", cep:"60100-000", tipo:"fornecedor", logomarca:null, ref_clientes:[], ref_produtos:[], ref_usuarios:[], data_cadastro:"2024-03-20T11:30:00.000Z" }
+];
